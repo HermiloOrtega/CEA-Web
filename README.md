@@ -5,13 +5,22 @@
 
 Developed specifically for Mac users in the general direction, CEA Web allows presenters to showcase each case slide-by-slide in an automated, branded layout designed for clarity and professionalism.
 
-### Register case
+### Login
+![Screenshot](./assets/1.png)
+
+### Home Page
 ![Screenshot](./assets/4.png)
 
-![Screenshot](./assets/13.jpg)
+### Presentation mode
+![Screenshot](./assets/5.JPG)
 
-### Approve cases screen
-![Screenshot](./assets/2.png)
+![Screenshot](./assets/8.JPG)
+
+### View Case
+![Screenshot](./assets/10.png)
+
+### Register Case
+![Screenshot](./assets/22.png)
 
 ## 💡 Idea & Concept
 CEA Web was built to:
