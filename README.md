@@ -45,10 +45,16 @@ CEA Web was built to:
   - Designed to match **[CEA Offline](https://github.com/HermiloOrtega/CEA-Offline)** layout and logic for consistency
 
 ## ⚙️ Tech Stack
-- **Language:** Visual Basic
-- **Framework:** .NET WinForms
-- **Database:** SQL Server (shared with **[CEA](https://github.com/HermiloOrtega/CEA)**)
-- **IDE:** Visual Studio
+| Category                | Tools & Frameworks |
+|-------------------------|--------------------|
+| **Frontend**            | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge) |
+| **Backend**             | ![ASP.NET WebForms](https://img.shields.io/badge/ASP.NET%20WebForms-512BD4?logo=.net&logoColor=white&style=for-the-badge) ![Visual Basic](https://img.shields.io/badge/Visual%20Basic-512BD4?logo=visualstudio&logoColor=white&style=for-the-badge) |
+| **Platform**            | ![Web App](https://img.shields.io/badge/Windows%20App-0078D4?logo=windows&logoColor=white&style=for-the-badge) |
+| **Framework**           | ![.NET Framework](https://img.shields.io/badge/.NET%20Framework-512BD4?logo=.net&logoColor=white&style=for-the-badge) |
+| **IDE**                 | ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?logo=visualstudio&logoColor=white&style=for-the-badge) |
+| **Database**            | ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoft-sql-server&logoColor=white&style=for-the-badge) |
+| **Security & Identity** | ![Custom Auth](https://img.shields.io/badge/Custom%20Auth-000000?style=for-the-badge&logo=key&logoColor=white) |
+| **Other**               | ![Embedded Charts](https://img.shields.io/badge/Embedded%20Charts-000000?logo=chartjs&logoColor=white&style=for-the-badge) ![Data Tables](https://img.shields.io/badge/Data%)
 
 ## 🏗 Architecture & Design
 - Minimal UI with full-screen presentation output
